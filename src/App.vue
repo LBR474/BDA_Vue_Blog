@@ -1,18 +1,32 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import { ref } from 'vue'; // Import ref from Vue
+
+import App_2 from './components/App_2.vue';
+const show_plan = ref<boolean>(false);
+
+const toggleShowPlan = () => {
+  show_plan.value = !show_plan.value;
+}
+
+
 </script>
 
 <template>
-  <div>
-    <a href="https://vitejs.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a> <br>
-    <img src="/Milan_San_Remo_Main_Image.png" class="logo" alt="Vite logo" />
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/sunda_distance.png" class="logo vue" alt="Vue logo" />
-    </a>
+  <div class="header">
+    <h1>Blog Day Afternoon</h1>
   </div>
-  <HelloWorld msg="Vite + Vue" />
+  
+  <div class="sidebar">
+    
+    <h3>Recent Posts</h3><br><button @click="toggleShowPlan">How to succeed in gardening without really trying</button></div>
+  
+  <div  class="main" v-if="show_plan">
+    <!-- <h1>App 2 is showing</h1> -->
+    <!-- Conditional rendering of App_2 -->
+    <App_2  />
+  </div>
+  <!-- <HelloWorld msg="Vite + Vue from App.vue" />  -->
+  
 </template>
 
 <style scoped>

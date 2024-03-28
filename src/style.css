@@ -2,6 +2,7 @@
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
+  font-size: larger;
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
@@ -12,6 +13,30 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+@font-face {
+            font-family: "CustomFontThin";
+            src: url("/Epilogue/static/Epilogue-Thin.ttf");
+
+
+
+        }
+
+        @font-face {
+            font-family: "CustomFontLight";
+            src: url("/Epilogue/static/Epilogue-Light.ttf");
+
+
+
+        }
+
+        @font-face {
+
+
+            font-family: "CustomFontRegular";
+            src: url("/Epilogue/static/Epilogue-Regular.ttf");
+
+        }
 
 a {
   font-weight: 500;
@@ -28,11 +53,28 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  border: 2px aqua dotted;
+  font-family: 'CustomFontRegular';
+  background-color: bisque;
+            color: black;
+}
+header {
+  font-size: 128px;
+
+  width: 90vw;
+  padding: 25px;
 }
 
 h1 {
-  font-size: 3.2em;
+  border: 2px dashed pink;
+  /* font-size: 3.2em; */
+  font-size: 128px;
   line-height: 1.1;
+  padding: 25px;
+  margin: 0px;
+}
+h2 {
+  font-size: 40px;
 }
 
 button {
@@ -57,12 +99,33 @@ button:focus-visible {
 .card {
   padding: 2em;
 }
+.main {
+  max-width: 87vw;
+  text-align: left;
+  padding: 10px;
+
+  border: 2px black dashed;
+}
+
+.sidebar {
+  width: 10vw;
+  height: 80vh;
+  border: 2px green solid;
+  padding: 10px;
+  position: relative;
+  float: right;
+  background-color: black;
+      color: bisque;
+}
 
 #app {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+  /* max-width: 1280px; */
+  width: 100vw;
+  height: fit-content;
+  /* margin: 0 auto; */
+  padding: 10px;
   text-align: center;
+  border: 2px red solid;
 }
 
 @media (prefers-color-scheme: light) {
