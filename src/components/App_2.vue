@@ -7,7 +7,7 @@
  <h2>Why I like watching bike racing on TV</h2>
 
         <figure class="mainImage">
-          <img src="/Milan_San_Remo_Main_Image.png" alt="">
+          <img src="/bike_racing_images/Milan_San_Remo_Main_Image.png" alt="">
           <figcaption>Milan San Remo bike race.</figcaption>
 
         </figure>
@@ -60,7 +60,7 @@
           write this post about it.<br>
           So first, and I think most obviously, there is the scenery.<br>
           <figure class="mainImage">
-            <img src="/PArco_DelTicino_MIlan_San_Remo.png" alt="">
+            <img src="/bike_racing_images/PArco_DelTicino_MIlan_San_Remo.png" alt="">
 
 
           </figure>
@@ -84,7 +84,7 @@
           changes from the
           riders.<br>
           <figure class="mainImage">
-            <img src="/San_Bartolomeo_Mailan_San_Remo.png" alt="">
+            <img src="/bike_racing_images/San_Bartolomeo_Mailan_San_Remo.png" alt="">
 
 
           </figure>
@@ -110,11 +110,11 @@
             fence?’
           </i> <br>
           <figure class="mainImage">
-            <img src="/Appalachian_wilderness.png" alt="">
+            <img src="/bike_racing_images/Appalachian_wilderness.png" alt="">
             <figcaption>The Appalachian wilderness</figcaption>
 
 
-            <img src="/Appalacian_trail_map.png" alt="">
+            <img src="/bike_racing_images/Appalacian_trail_map.png" alt="">
             <figcaption>The Appalachian trail</figcaption>
 
           </figure>
@@ -195,7 +195,7 @@
           was done
           best, on the D-Generation in the 80s.<br>
           <figure class="rightImage">
-            <img src="/D-Gen.png" alt="">
+            <img src="/bike_racing_images/D-Gen.png" alt="">
             <figcaption>The D-Generation, one of the greatest shows ever produced in Australia</figcaption>
 
 
@@ -242,11 +242,11 @@
         <h3>Long distance service</h3>
 
         <figure class="rightImage">
-          <img src="/sunda_distancee.png" alt="">
+          <img src="/bike_racing_images/sunda_distancee.png" alt="">
 
         </figure>
         <figure class="leftImage">
-          <img src="/sunda.jpeg" alt="">
+          <img src="/bike_racing_images/sunda.jpeg" alt="">
 
         </figure>
 
@@ -266,7 +266,7 @@
 
         <h3>Freudian or what?</h3>
         <figure class="rightImage">
-          <img src="/face_breakdown_small.png" alt="">
+          <img src="/bike_racing_images/face_breakdown_small.png" alt="">
 
         </figure>
 

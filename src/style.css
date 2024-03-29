@@ -100,7 +100,7 @@ button:focus-visible {
   padding: 2em;
 }
 .main {
-  max-width: 87vw;
+  max-width: 79vw;
   text-align: left;
   padding: 10px;
 
@@ -108,7 +108,7 @@ button:focus-visible {
 }
 
 .sidebar {
-  width: 10vw;
+  width: 15vw;
   height: 80vh;
   border: 2px green solid;
   padding: 10px;
