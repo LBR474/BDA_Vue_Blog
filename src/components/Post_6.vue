@@ -8,7 +8,7 @@
  <h2>I just have to hope that professional complainer is a real job</h2>
 
 When the disgustingly selfish woman who owned my apartment that I eventually got evicted from first decided to put it on the market right in the middle of COVID, 
-I was furious for a lot of reasons. <br>
+I was furious for a lot of reasons. <br> 
 Firstly, there was the completely gobsmacking realisation that this woman had just seen the suffering and death of millions of people across the world as an opportunity to make money. <br>
 COVID did a lot of things to the economy, nearly all of them bad, and one of them was the superheating of the housing market, certainly in Byron Bay. <br>
 I can’t exactly get it straight in my mind how or why this happened, you would think that with everyone at home because of the lockdowns, no one was selling or buying, so the prices should remain flat. <br>
