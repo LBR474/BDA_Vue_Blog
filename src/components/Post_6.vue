@@ -13,9 +13,9 @@ Firstly, there was the completely gobsmacking realisation that this woman had ju
 COVID did a lot of things to the economy, nearly all of them bad, and one of them was the superheating of the housing market, certainly in Byron Bay. <br>
 I can’t exactly get it straight in my mind how or why this happened, you would think that with everyone at home because of the lockdowns, no one was selling or buying, so the prices should remain flat. <br>
 However like most things to do with economics counter-intuitive seems to be the watchword. <br>
-Indeed at this point I always remember something I read somewhere that sums the world of economics perfectly, the original quote is from Laurence J. Peter, and reads: <i> br ‘An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today.’ </i> <br>
-But my recollection was of a slightly different wording, which was slightly clearer in its meaning (I feel): <i>
- ‘economists can’t tell you what will happen tomorrow, but they can tell you why they were wrong yesterday’. </i> <br>
+Indeed at this point I always remember something I read somewhere that sums the world of economics perfectly, the original quote is from Laurence J. Peter, and reads: <br>  <code>‘An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today.’ </code> <br>
+But my recollection was of a slightly different wording, which was slightly clearer in its meaning (I feel): <br> <code>
+ ‘economists can’t tell you what will happen tomorrow, but they can tell you why they were wrong yesterday’. </code> <br>
 Anyway, if interested in why the housing market super-balloooned in price in many places across Australia, you can find various sources on your favourite search engine to explain this better than me. <br>
 <figure class="rightImage">
  <img src="/pro_complain_images/house-price-market-search.png" alt="">
@@ -27,21 +27,21 @@ I’ve had four main careers in my life: teacher, journalist, computer programme
 And with the axe poised over my lovely life in Byron Bay, I figured my best chance of work that would allow me to pay for a flat in Byron Bay would be computer programming.
 When I first worked in IT in Sydney in the 90s I was a web designer, and became most adept at a language called javascript. <br>
 So with the immediate need to earn some bucks, I opened up my memory banks and began doing a bit of programming to see if I was up to the challenge of getting a job in this industry again. <br>
-I made up a few pages using HTML and JavaScript and as I did, I began to notice that the JavaScript I was studying was being constantly referred to as ‘vanilla JavaScript’. <br>
+I made up a few pages using HTML and JavaScript and as I did, I began to notice that the JavaScript I was studying was being constantly referred to as "vanilla JavaScript". <br>
 I didn’t think too much about that, until the day came when I rang a recruitment consultant in Brisbane to discover what my chances of getting programming work were.
 The result of that phone call was that my chances were zero, probably less than zero given the other invisible factors that stalked that conversation, more on that later. <br>
 <p></p>
 
 And just to break out of that for a second, with my chances of higher paying computer work being accurately described as: ‘lucky to be zero’, that reminded me a couple of amusing lines aligned with this from the world of sport. <br>
 
-One was ABC rugby league commentator Warren Ryan saying one day - of a team that had performed abysmally: ‘they were lucky to get nil’. <br>
+One was ABC rugby league commentator Warren Ryan saying one day - of a team that had performed abysmally: <code> ‘they were lucky to get nil’.</code> <br>
 <p></p>
 And Billy Connolly on soccer in Glasgow. <br>
 To set the scene, in Glasgow, as I’m sure you all probably know, soccer is king, it’s an obsession with the local inhabitants that goes beyond mental illness really. <br>
 There are two major teams Glasgow Rangers (protestant) and Glasgow Celtic (catholic). <br>
 Almost all attention is focussed on these two teams, not just in Glasgow, but across Scotland as a whole. <br>
 Thus the third Glasgow team, Partick Thistle, rarely raises the attention needle above 0.1 when people gathered in pubs are talking Scottish soccer. <br>
-Partick Thistle are often not even in the top division, and are famous for losing more matches than they win, so Billy Connolly once gagged: ‘I’d just like to point out that the team’s name is Partick Thistle F.C, not Partick Thistle NIL’. <br>
+Partick Thistle are often not even in the top division, and are famous for losing more matches than they win, so Billy Connolly once gagged: <code> ‘I’d just like to point out that the team’s name is Partick Thistle F.C, not Partick Thistle NIL’.</code> <br>
 <figure class="leftImage">
  <img src="/pro_complain_images/partick_nil.png" alt="">
  <figcaption></figcaption>
@@ -121,8 +121,8 @@ Moving on, after some weeks of waiting, I began to feel that I should have heard
 But with no word, I felt I better get proactive, so I rang one of the publishers.
 There I spoke with a helpful person, and even that was something of a miracle, as that conversation made me realise. <br>
 I say miracle, because publishers are so swamped that even getting someone to answer the phone is a something of a rarity, compare with the modern era where no company answers the phone but simply advises you in the voice answer message to go to their website and look at the Frequently Asked Questions page and see if that helps with your query, meaning: f*** off and don’t bother us. <br>
-Anyway the helpful person at the publishers told me that they don’t take unsolicited manuscripts, <i>‘we only publish books sent to us by literary agents’. </i> 
-So I rang off and went to the yellow pages for Sydney and looked up literary agents, and there were three listed as I recall.I rang the first one in the book and they told me: <i>‘we won’t take you on unless you’ve already been published’. </i> 
+Anyway the helpful person at the publishers told me that they don’t take unsolicited manuscripts, <code>‘we only publish books sent to us by literary agents’. </code> 
+So I rang off and went to the yellow pages for Sydney and looked up literary agents, and there were three listed as I recall.I rang the first one in the book and they told me: <code>‘we won’t take you on unless you’ve already been published’. </code> <br>
 So with a snarling groan at the unfairness of life (as I saw it), my literary ambitions died for the moment. <br>
 There was back then a thing called vanity publishing, where you publish your own book, and then hawk it around book stores hoping they would put it on the shelf, but I was not really prepared to do that. <br> 
 There have been successes using this process, Mathew Reilly, the thriller writer, began this way, and I suppose I could have done that, but as I look back on it, that just all seemed too hard. <br> 
