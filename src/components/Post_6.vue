@@ -12,9 +12,10 @@ I was furious for a lot of reasons. <br>
 Firstly, there was the completely gobsmacking realisation that this woman had just seen the suffering and death of millions of people across the world as an opportunity to make money. <br>
 COVID did a lot of things to the economy, nearly all of them bad, and one of them was the superheating of the housing market, certainly in Byron Bay. <br>
 I can’t exactly get it straight in my mind how or why this happened, you would think that with everyone at home because of the lockdowns, no one was selling or buying, so the prices should remain flat. <br>
-However like most things to do with economics counter-intuitive seems to be the watchword. <br>
-Indeed at this point I always remember something I read somewhere that sums the world of economics perfectly, the original quote is from Laurence J. Peter, and reads: <br>  <code>‘An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today.’ </code> <br>
-But my recollection was of a slightly different wording, which was slightly clearer in its meaning (I feel): <br> <code>
+However like most things to do with economics counter-intuitive seems to be the watchword. <br >
+
+Indeed at this point I always remember something I read somewhere that sums the world of economics perfectly, the original quote is from Laurence J. Peter, and reads: <br>  <code class="italic">‘An economist is an expert who will know tomorrow why the things he predicted yesterday didn't happen today.’ </code> <br>
+ But my recollection was of a slightly different wording, which was slightly clearer in its meaning (I feel): <br> <code class="italic">
  ‘economists can’t tell you what will happen tomorrow, but they can tell you why they were wrong yesterday’. </code> <br>
 Anyway, if interested in why the housing market super-balloooned in price in many places across Australia, you can find various sources on your favourite search engine to explain this better than me. <br>
 <figure class="rightImage">
@@ -121,8 +122,9 @@ Moving on, after some weeks of waiting, I began to feel that I should have heard
 But with no word, I felt I better get proactive, so I rang one of the publishers.
 There I spoke with a helpful person, and even that was something of a miracle, as that conversation made me realise. <br>
 I say miracle, because publishers are so swamped that even getting someone to answer the phone is a something of a rarity, compare with the modern era where no company answers the phone but simply advises you in the voice answer message to go to their website and look at the Frequently Asked Questions page and see if that helps with your query, meaning: f*** off and don’t bother us. <br>
-Anyway the helpful person at the publishers told me that they don’t take unsolicited manuscripts, <code>‘we only publish books sent to us by literary agents’. </code> 
-So I rang off and went to the yellow pages for Sydney and looked up literary agents, and there were three listed as I recall.I rang the first one in the book and they told me: <code>‘we won’t take you on unless you’ve already been published’. </code> <br>
+Anyway the helpful person at the publishers told me that they don’t take unsolicited manuscripts, <code  class="italic">‘we only publish books sent to us by literary agents’. </code> <br>
+So I rang off and went to the yellow pages for Sydney and looked up literary agents, and there were three listed as I recall. <br> 
+I rang the first one in the book and they told me: <code class="italic">‘we won’t take you on unless you’ve already been published’. </code> <br>
 So with a snarling groan at the unfairness of life (as I saw it), my literary ambitions died for the moment. <br>
 There was back then a thing called vanity publishing, where you publish your own book, and then hawk it around book stores hoping they would put it on the shelf, but I was not really prepared to do that. <br> 
 There have been successes using this process, Mathew Reilly, the thriller writer, began this way, and I suppose I could have done that, but as I look back on it, that just all seemed too hard. <br> 
