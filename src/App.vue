@@ -1,14 +1,15 @@
 <script setup lang="ts">
 import { ref } from "vue"; // Import ref from Vue
 
-import Post_5 from "./components/Post_5.vue";
 
+import Post_6 from "./components/Post_6.vue";
+import Post_5 from "./components/Post_5.vue";
 import Post_4 from "./components/Post_4.vue";
 import Post_3 from "./components/Post_3.vue";
 import Post_2 from "./components/Post_2.vue";
 import Post_1 from "./components/Post_1.vue";
 
-const numPosts = 5; // Number of posts
+const numPosts = 6; // Number of posts
 const showPostIndex = ref(numPosts); // Variable to track which post is shown, initialized to the last post index
 
 const toggleShow = (index: number) => {
@@ -26,6 +27,7 @@ postTitles.value[numPosts - 2] = "A bear sat on it";
 postTitles.value[numPosts - 3] = "Right WordPress, you just made the list";
 postTitles.value[numPosts - 4] = "How to succeed in gardening without really trying";
 postTitles.value[numPosts - 5] = "Why I like watching bike racing on TV";
+postTitles.value[numPosts - 6] = "There's nothing wring with the word ain't";
 
 </script>
 
@@ -50,7 +52,10 @@ postTitles.value[numPosts - 5] = "Why I like watching bike racing on TV";
 
   <div class="main">
     <!-- Display the component based on the current post index -->
-    <template v-if="showPostIndex === 5">
+    <template v-if="showPostIndex === 6">
+      <Post_6 />
+    </template>
+    <template v-else-if="showPostIndex === 5">
       <Post_5 />
     </template>
     <template v-else-if="showPostIndex === 4">
