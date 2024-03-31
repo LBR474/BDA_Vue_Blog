@@ -7,7 +7,7 @@
     <article>
  <h2>I just have to hope that professional complainer is a real job</h2>
 
-When the disgustingly selfish and disgustingly rich woman who owned my apartment that I eventually got evicted from first decided to put it on the market right in the middle of COVID, 
+When the disgustingly selfish woman who owned my apartment that I eventually got evicted from first decided to put it on the market right in the middle of COVID, 
 I was furious for a lot of reasons. <br>
 Firstly, there was the completely gobsmacking realisation that this woman had just seen the suffering and death of millions of people across the world as an opportunity to make money. <br>
 COVID did a lot of things to the economy, nearly all of them bad, and one of them was the superheating of the housing market, certainly in Byron Bay. <br>
