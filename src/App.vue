@@ -27,7 +27,7 @@ postTitles.value[numPosts - 2] = "A bear sat on it";
 postTitles.value[numPosts - 3] = "Right WordPress, you just made the list";
 postTitles.value[numPosts - 4] = "How to succeed in gardening without really trying";
 postTitles.value[numPosts - 5] = "Why I like watching bike racing on TV";
-postTitles.value[numPosts - 6] = "There's nothing wring with the word ain't";
+postTitles.value[numPosts - 6] = "I just have to hope professional complainer is a real job";
 
 </script>
 
