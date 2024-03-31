@@ -35,14 +35,14 @@ The result of that phone call was that my chances were zero, probably less than 
 
 And just to break out of that for a second, with my chances of higher paying computer work being accurately described as: ‘lucky to be zero’, that reminded me a couple of amusing lines aligned with this from the world of sport. <br>
 
-One was ABC rugby league commentator Warren Ryan saying one day - of a team that had performed abysmally: <code> ‘they were lucky to get nil’.</code> <br>
+One was ABC rugby league commentator Warren Ryan saying one day - of a team that had performed abysmally: <code class="italic"> ‘they were lucky to get nil’.</code> <br>
 <p></p>
 And Billy Connolly on soccer in Glasgow. <br>
 To set the scene, in Glasgow, as I’m sure you all probably know, soccer is king, it’s an obsession with the local inhabitants that goes beyond mental illness really. <br>
 There are two major teams Glasgow Rangers (protestant) and Glasgow Celtic (catholic). <br>
 Almost all attention is focussed on these two teams, not just in Glasgow, but across Scotland as a whole. <br>
 Thus the third Glasgow team, Partick Thistle, rarely raises the attention needle above 0.1 when people gathered in pubs are talking Scottish soccer. <br>
-Partick Thistle are often not even in the top division, and are famous for losing more matches than they win, so Billy Connolly once gagged: <code> ‘I’d just like to point out that the team’s name is Partick Thistle F.C, not Partick Thistle NIL’.</code> <br>
+Partick Thistle are often not even in the top division, and are famous for losing more matches than they win, so Billy Connolly once gagged: <code class="italic"> ‘I’d just like to point out that the team’s name is Partick Thistle F.C, not Partick Thistle NIL’.</code> <br>
 <figure class="leftImage">
  <img src="/pro_complain_images/partick_nil.png" alt="">
  <figcaption></figcaption>
@@ -109,12 +109,12 @@ So with my three projects in the main frameworks complete, I now felt I was read
 And at this point I was reminded of another time I faced head-beating-against-the-wall confounding paradoxes like this. <br>
 In the 90s I was working in computers in the corporate world of Sydney and already starting to understand that I didn’t want to do this for the rest of my life, so I reactivated my always just-beneath-the-surface desire to be a writer. <br>
 Back then you could still make a living as a writer, even become rich if you were prepared to write soft porn, or hopelessly commercial novels with a lot of sex on them.
-I wasn’t prepared to do that, but was taken with the idea of seeing my name on the spine of a book in the local book store, so I wrote my first book: How Not to Build a Mud Brick House. <br>
-It was, like all first draft of first novels by anyone I guess, really, really bad. <br>
+I wasn’t prepared to do that, but was taken with the idea of seeing my name on the spine of a book in the local book store, so I wrote my first book:  <code> How Not to Build a Mud Brick House. </code><br>
+It was, like all first drafts of all first novels by anyone I guess, really, really bad. <br>
 It described me buying some land outside Byron Bay and building a mud brick house on it, then leaving the corporate world of Sydney and going up there and doing nothing for the rest of my life except surfing, growing organic veggies in my garden and spending the rest of my time staring out the window at the view. <br>
 So much I didn’t understand, mostly just how much money you needed to buy anything in Byron Bay, even back then. <br>
 If you were lucky you could afford a dog kennel, to buy a house, flat or even some land, you had to enslave yourself to a mortgage and then spend the rest of your career stuck in Sydney writing JavaScript code till you expired of a heart attack and never got the chance to live on your land and stare out the window, thanks a f***Ing lot big four banks of Australia. <br>
-Anyway, leaving that aside, and returning to the initial paradox of life as a writer, I worked away at my novel and eventually finished it, and in my hopeless delusion, thought: ‘ok, that’s the hard part done, now to contact some publishers’. <br>
+Anyway, leaving that aside, and returning to the initial paradox of life as a writer, I worked away at my novel and eventually finished it, and in my hopeless delusion, thought: <br> <code class="italic"> ‘ok, that’s the hard part done, now to contact some publishers’. </code><br>
 So I printed out some copies, and got them bound by the print shop at Compaq computers, where I was working at the time, then one lunchtime I took five copies of my book down to the post office and sent it to five publishers. <br>
 Then I waited. <br>
 I hesitate to write ‘in my hopeless naivete’ more than fifty times per post, but even as I recollect that time, nothing else really sums up my perpetually deluded state of mind that I had as an arrogant and foolish younger man. <br>
