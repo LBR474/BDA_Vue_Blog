@@ -3,8 +3,8 @@
 </script>
 
 <template>
-  <div>
-    <article>
+  <div >
+    <article >
  <h2>I just have to hope that professional complainer is a real job</h2>
 
 When the disgustingly selfish woman who owned my apartment that I eventually got evicted from first decided to put it on the market right in the middle of COVID, 
