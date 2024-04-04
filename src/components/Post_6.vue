@@ -71,7 +71,7 @@ THis is an inherently good idea, typescript is like an editor that looks at your
 However as a raw, green beginner with typescript, I found the error messages hopelessly confusing.
 <figure class="leftImage">
  <img src="/pro_complain_images/showPost_index_error.png" alt="">
- <figcaption>To give you a brief idea of the issues that can arise, this property error had to be solved by changing the code on a completely different page, something took me a long frustrating time to figure out.</figcaption>
+ <figcaption>To give you a brief idea of the issues that can arise, this property error had to be solved by changing the code on a completely different page, something that took me a long frustrating time to figure out.</figcaption>
 </figure>
 
 Whenever these terrifying red lines appeared on my code page, I would groan internally as I knew it meant some hours, possibly days of research across the internet trying to find a solution to these problems. <br>

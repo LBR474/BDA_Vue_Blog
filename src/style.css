@@ -29,14 +29,7 @@
   src: url("/Epilogue/static/Epilogue-Regular.ttf");
 }
 
-a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
-}
-a:hover {
-  color: #535bf2;
-}
+
 
 article {
   border: 1px black solid;
@@ -49,7 +42,7 @@ body {
   margin: 0;
   display: flex;
   place-items: center;
-  min-width: 320px;
+  /* min-width: 320px; */
   min-height: 100vh;
   /* border: 2px aqua dotted; */
   font-family: "CustomFontRegular";
@@ -58,34 +51,33 @@ body {
 }
 
 button {
+  width: 90%;
   border-radius: 8px;
   border: 1px solid transparent;
   padding: 0.6em 1.2em;
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  background-color: bisque;
   cursor: pointer;
   transition: border-color 0.25s;
 }
 button:hover {
   border-color: #646cff;
+  background-color: black;
+  color: bisque;
 }
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
-
 figure {
-  
-  
   border: thin #c0c0c0 solid;
   display: flex;
   flex-flow: column;
   padding: 1px;
   max-width: 30%;
-
 }
 
 figcaption {
@@ -98,18 +90,19 @@ figcaption {
 
 footer {
   text-align: center;
-  max-width: 79vw;
+
+  width: 100%; /* Make the footer span the entire width */
+  background-color: bisque; /* Adjust background color as needed */
+  color: #000000; /* Adjust text color as needed */
 }
 header {
   font-size: 128px;
 
-  width: 90vw;
+  width: 100vw;
   padding: 25px;
 }
 
 h1 {
-  /* border: 2px dashed pink; */
-  /* font-size: 3.2em; */
   font-size: 128px;
   line-height: 1.1;
   padding: 25px;
@@ -117,14 +110,16 @@ h1 {
 }
 h2 {
   font-size: 40px;
-  
+}
+
+.rightColumn > p {
+  background-color: rgb(4, 4, 4);
+  color: bisque;
 }
 
 .italic {
   font-style: italic;
 }
-
-
 
 .leftImage {
   float: left;
@@ -132,39 +127,23 @@ h2 {
   margin-left: 0px;
 }
 .main {
-  max-width: 79vw;
+  max-width: 100vw;
   text-align: left;
   padding: 0px;
 
-  /* border: 2px black dashed; */
+  
 }
 
 .mainImage {
   min-width: 95%;
-
-  /* margin-top: 25px;
-            margin-right: 25px;
-            margin-left: 0px; */
 }
 
 .rightImage {
-  float:right;
+  min-width: 50%;
+  float: right;
   margin-left: 10px;
   margin-top: 0px;
   margin-right: 0px;
-  
-}
-
-.sidebar {
-  width: 15vw;
-  height: 80vh;
-  /* border: 2px green solid; */
-  padding: 10px;
-  position: relative;
-  float: right;
-  background-color: black;
-  color: bisque;
-  margin-right: 10px;
 }
 
 #app {
@@ -175,17 +154,4 @@ h2 {
   padding: 0px;
   text-align: center;
   /* border: 2px red solid; */
-}
-
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
 }

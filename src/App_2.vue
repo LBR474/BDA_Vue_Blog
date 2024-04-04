@@ -32,13 +32,14 @@ postTitles.value[numPosts - 6] = "I just have to hope professional complainer is
 </script>
 
 <template>
-<header>
-  <h1>Blog Day Afternoon</h1>
-</header>
+  <div class="wrapper">
+  <div class="header">
+    <h1>Blog Day Afternoon</h1>
+  </div>
 
-<div class="row">
-  <div class="leftcolumn">
-    <div class="main">
+  
+
+  <div class="main">
     <!-- Display the component based on the current post index -->
     <template v-if="showPostIndex === 6">
       <Post_6 />
@@ -59,15 +60,10 @@ postTitles.value[numPosts - 6] = "I just have to hope professional complainer is
       <Post_1 />
     </template>
     <!-- Add more templates for other posts if needed -->
-  </div>  </div>
-  <div class="rightcolumn">
-    <!-- <div class="card">
-      <h2>About Me</h2>
-      <div class="fakeimg" style="height:100px;">Image</div>
-      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
-    </div>
-     -->
-     <h3>Recent Posts</h3>
+  </div>
+
+  <div class="sidebar">
+    <h3>Recent Posts</h3>
     <br />
     
     <p v-for="(title, index) in postTitles" :key="index">
@@ -78,62 +74,40 @@ postTitles.value[numPosts - 6] = "I just have to hope professional complainer is
         {{ title }}
       </button>
     </p>
-   
-    <!-- <div class="card">
-      <h3>Follow Me</h3>
-      <p>Some text..</p>
-    </div> -->
   </div>
-</div>
 
-<footer>
-  <h2>.......</h2>
-</footer>
+  <footer><h1>.....</h1></footer>
 
+  </div>
 </template>
 
 <style scoped>
-* {
-  box-sizing: border-box;
+button {
+  min-width: 100%;
 }
 
-/* Add a gray background color with some padding */
-
-
-
-/* Create two unequal columns that floats next to each other */
-/* Left column */
-.leftcolumn {   
-  float: left;
-  width: 75%;
+button:hover {
+  filter: drop-shadow(0 0 2em #fdfdfdaa);
+  background-color: bisque;
+  min-width: 100%;
 }
 
-/* Right column */
-.rightcolumn {
-  float: left;
-  width: 25%;
-  padding-left: 20px;
-  color: bisque;
-  background-color: black;
-  margin-top: 5px;
+button.inactive {
+  background-color: rgb(0, 0, 0);
+  height: 0px;
+  width: 0px;
+}
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
 }
 
-
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Footer */
-
-/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 1000px) {
-  .leftcolumn, .rightcolumn, .main, article {   
-    width: 100%;
-    padding: 0;
-  }
+.logo.vue:hover {
+  filter: drop-shadow(0 0 2em #42b883aa);
 }
 </style>
